@@ -1,2 +1,2 @@
 # WebApp
-This is a WebApp.
+This is a WebApplication.
